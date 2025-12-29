@@ -3,7 +3,7 @@ import SectionTitle from "@/components/SectionTitle";
 
 const testimonials = [
   {
-    quote: "Comprei 3 cursos antes e não aprendi nada. Cajón Express me fez tocar samba completo no terceiro dia. Minha banda da igreja não acreditou! Já indiquei para 5 amigos.",
+    quote: "Comprei 3 cursos antes e não aprendi nada. O Curso Rápido de Cajón me fez tocar samba completo no terceiro dia. Minha banda da igreja não acreditou! Já indiquei para 5 amigos.",
     name: "Carlos",
     age: 42,
     location: "São Paulo",
